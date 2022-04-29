@@ -1,2 +1,2 @@
-# wordle
-wordle clone 
+# Wordle
+Wordle Clone for Practice
